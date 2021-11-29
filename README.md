@@ -2,7 +2,7 @@
 - 👀 I’m interested in Asp.Net
 - 🌱 I’m currently learning Asp.Net
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 03452055614
+- 📫 How to reach me muhammad.aasad110@gmail.com
 
 <!---
 DeveloparAsadullah/DeveloparAsadullah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
